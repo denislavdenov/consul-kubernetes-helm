@@ -54,6 +54,7 @@ Onto master:
 14. helm init --upgrade --service-account tiller
 
 Note: If those commands are not executed exactly in that way, helm is complaining that tiller is not installed
+
 Note2: In learning guide is mentioned that we can change values.yaml as per our needs, but if we do so, errors are reported:
 
 ```
